@@ -1,12 +1,12 @@
 # <p align='center'>**Hi there, I'm Sylvie**👋<p>
 <p align='center'> I'm a Software Engineering student at Polytechnic University of Turin. </p>
 <p align='center'> 🎓 Bachelor degree in Engineering and Management (L-8) at Polytechnic University of Turin </p>
+<br>
 
 ## **Connect with me**
 [<img align="left" alt="linked-in" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />](https://github.com/sylviemolinatto)
 [<img align="left" alt="linked-in" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />](https://www.linkedin.com/in/sylvie-molinatto-967a39172)
-
-
+<br>
 <br>
 <br>
 
@@ -16,6 +16,7 @@
 <img align="left" alt="java" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img align="left" alt="javascript" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/>
 <img align="left" alt="php" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" />
+<br>
 <br>
 <br>
 
